@@ -28,6 +28,4 @@ Passionate about cybersecurity and ethical hacking, I thrive on uncovering vulne
 
 ---
 
-### 📊 GitHub Stats
 
-![Mihail's GitHub stats](https://github-readme-stats.vercel.app/api?username=perc1017&show_icons=true&theme=dark&hide_border=true)
