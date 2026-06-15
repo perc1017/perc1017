@@ -7,7 +7,6 @@ Passionate about cybersecurity and ethical hacking, I thrive on uncovering vulne
 ---
 
 - 🔭 Currently working as **Junior DevSecOps Engineer & Penetration Tester**
-- 🌱 Learning: Diving deeper into **Cloud Security** (Azure) and advanced exploitation techniques.
 - 💬 Ask me about: Ethical hacking, vulnerability assessment, **GitLab CI/CD**, and **Ansible** automation.
 - 📍 Based in: **Ukraine** 🇺🇦
 - 📫 Reach me: [perc1017mail@gmail.com](mailto:perc1017mail@gmail.com)
