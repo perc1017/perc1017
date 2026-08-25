@@ -18,7 +18,7 @@ Passionate about cybersecurity and ethical hacking, I thrive on uncovering vulne
 
 </td>
 <td width="30%" align="center">
-<img src="" width="100%"/>
+<img src="assets/3fcb8785-6d1d-4894-824a-df6732d66f75.jpg">
 </td>
 </tr>
 </table>
