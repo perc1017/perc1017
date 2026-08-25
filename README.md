@@ -89,5 +89,5 @@ $$\color{green}{\texttt{ PROGRAMMING}}$$
 </div>
 
 <div align="center">
-<img src="" width="45%"/>
+<img src="assets/7cee0a61-07a7-46f8-9025-56db0fc215c6.jpg">
 </div>
