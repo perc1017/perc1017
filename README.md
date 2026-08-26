@@ -29,6 +29,25 @@ $\huge{\color{green}{Tech \  skills \ and \ tools}}$
 
 <div align="center">
 
+$$\color{green}{\texttt{Certifications \  and \  Verified \  Skills}}$$
+
+<p align="center">
+  <!-- Cisco Certified Ethical Hacker -->
+  <a href="https://www.credly.com/badges/3c011174-8656-478c-9314-fcae51967c44/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker" />
+  </a>
+  
+  <!-- Credly Profile Link -->
+  <a href="https://www.credly.com/badges/3c011174-8656-478c-9314-fcae51967c44/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verified_Badge-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Verification" />
+  </a>
+
+  <!-- TryHackMe Profile -->
+  <a href="https://tryhackme.com/p/perc1017" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  </a>
+</p>
+
 $$\color{green}{\texttt{ OFFENSIVE\ SECURITY}}$$
 
 <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=F34B7D" />
