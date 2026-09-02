@@ -14,7 +14,6 @@ Passionate about cybersecurity and ethical hacking, I thrive on uncovering vulne
 - 💬 Ask me about: **Ethical Hacking & Pentesting** (Metasploit, Burp Suite), **Vulnerability Assessment** (Nessus, OpenVAS), **Network Architecture & Routing** (Cisco CCNA, Packet Tracer), and automating containerized environments using **Docker & Kubernetes**
 - 📍 Based in: **Ukraine** 🇺🇦
 - 📫 Reach me: [perc1017mail@gmail.com](mailto:perc1017mail@gmail.com)
-- ⚡ Fun fact: I once solved an entire Capture The Flag challenge in under an hour — talk about a rush!
 
 </td>
 <td width="30%" align="center">
